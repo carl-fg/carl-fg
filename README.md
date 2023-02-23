@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I design and develop websites to meet the needs of my clients. I still have a lot of new technologies to learn but that will come with time.
 
 Originally, I started learning Python for my own needs but then I turned to web and software development to follow my passion. For the moment I work alone. To meet my future needs I plan to learn how to make logos through the use of software such as Adobe Photoshop or Adobe Illustrator.
+
+![Cover](https://github.com/carl-fg/carl-fg/blob/main/img/duck-dance.gif)
