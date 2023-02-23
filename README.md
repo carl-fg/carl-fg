@@ -1,4 +1,4 @@
-### Nice to meet you! 👋
+## Nice to meet you! 👋
 
 <!--
 **carl-fg/carl-fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I design and develop websites to meet the needs of my clients. I still have a lot of new technologies to learn but that will come with time.
+I design and develop **websites** to meet the needs of my clients. I still have a lot of new technologies to learn but that will come with time.
 
-<span><strong>Originally<strong/><span/>, I started learning Python for my own needs but then I turned to web and software development to follow my passion. For the moment I work alone. To meet my future needs I plan to learn how to make logos through the use of software such as Adobe Photoshop or Adobe Illustrator.
+**Originally**, I started learning Python for my own needs but then I turned to **web** and **software development** to follow my passion. For the moment I work alone. To meet my future needs I plan to learn how to make logos through the use of software such as Adobe Photoshop or Adobe Illustrator.
+
+## Languages used
+
