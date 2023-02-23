@@ -21,3 +21,4 @@ I design and develop **websites** to meet the needs of my clients. I still have 
 
 ## Languages used
 
+!(https://github.com/carl-fg/carl-fg/blob/main/img/html.png) !(https://github.com/carl-fg/carl-fg/blob/main/img/css.png) !(https://github.com/carl-fg/carl-fg/blob/main/img/sass.png) !(https://github.com/carl-fg/carl-fg/blob/main/img/js.png) !(https://github.com/carl-fg/carl-fg/blob/main/img/php.png)
