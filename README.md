@@ -25,3 +25,4 @@ I design and develop **websites** to meet the needs of my clients. I still have 
 
 ## Contact me
 
+[![discord](https://github.com/carl-fg/carl-fg/blob/main/img/discord.png)](discord.com)
