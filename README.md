@@ -25,4 +25,4 @@ I design and develop **websites** to meet the needs of my clients. I still have 
 
 ## Contact me
 
-[![discord](https://github.com/carl-fg/carl-fg/blob/main/img/discord.png)](https://discord.com) &nbsp; [![github](https://github.com/carl-fg/carl-fg/blob/main/img/github.png)](https://github.com/carl-fg)
+[![discord](https://github.com/carl-fg/carl-fg/blob/main/img/discord.png)](https://discord.gg/GjyFQRTeMN) &nbsp; [![github](https://github.com/carl-fg/carl-fg/blob/main/img/github.png)](https://github.com/carl-fg)
