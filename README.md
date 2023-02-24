@@ -21,7 +21,7 @@ I design and develop **websites** to meet the needs of my clients. I still have 
 
 ## Languages used
 
-![html](https://github.com/carl-fg/carl-fg/blob/main/img/html.png) &nbsp; ![css](https://github.com/carl-fg/carl-fg/blob/main/img/css.png) &nbsp; ![sass](https://github.com/carl-fg/carl-fg/blob/main/img/sass.png) &nbsp; ![js](https://github.com/carl-fg/carl-fg/blob/main/img/js.png) &nbsp; ![php](https://github.com/carl-fg/carl-fg/blob/main/img/php.png)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![css](https://github.com/carl-fg/carl-fg/blob/main/img/css.png) &nbsp; ![sass](https://github.com/carl-fg/carl-fg/blob/main/img/sass.png) &nbsp; ![js](https://github.com/carl-fg/carl-fg/blob/main/img/js.png) &nbsp; ![php](https://github.com/carl-fg/carl-fg/blob/main/img/php.png)
 
 ## Contact me
 
