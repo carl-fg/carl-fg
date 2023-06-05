@@ -25,7 +25,7 @@ I design and develop **websites** to meet the needs of my clients. I still have 
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carl-fg&show_icons=true&theme=transparent)
 
 ## Contact me
 
